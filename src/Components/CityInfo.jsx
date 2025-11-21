@@ -33,7 +33,7 @@ function CityInfo() {
 
   return (
     <div className="city-container">
-      <h1>City Explorer</h1>
+      <h1 className="CityExplorer">City Explorer</h1>
       <input 
         type="text" 
         placeholder="Enter a city" 
